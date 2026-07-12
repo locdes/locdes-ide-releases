@@ -1,3 +1,5 @@
-# LoCDeS IDE — Releases
+# LoCDeS IDE
 
-Este repositorio público hospeda únicamente los instaladores de LoCDeS IDE para el auto-actualizador (electron-updater). El código fuente está en `locdes/locdes-ide` (privado).
+Releases de LoCDeS IDE. Este repositorio hospeda los instaladores de la aplicación para la auto-actualización.
+
+Las versiones publicadas y sus instaladores están en la pestaña **Releases**.
